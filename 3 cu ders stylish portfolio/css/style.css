@@ -1,0 +1,165 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.first {
+    background-image:url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg) ;
+    background-size: cover; background-position: center;
+text-align: center;
+padding: 280px 0px;
+}
+.first h1 {
+  font-size: 88px;
+  color: #212529;  
+}
+.first h3 {
+font-size: 28px;
+color: #212529;
+margin-bottom: 30px;
+
+}
+.first a {
+  border-radius: 0.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+  background-color:  #1d809f;
+  padding:20px 40px ;
+  color: #fff;
+}
+.second
+{
+  padding: 120px 0px;
+text-align: center;
+
+}
+.second h2
+{
+margin-top: 60px;
+
+}
+.second p
+{
+margin-bottom: 80px;
+margin-top: 10px;
+
+}
+.offer
+{
+  text-decoration: none;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+  background-color:  #212529;
+  padding: 1.5rem 2.5rem;
+  color: #fff;
+}
+.third{
+  padding: 120px 0px ;
+  background-color:#1d809f ;
+  margin-top: 80px;
+  background-repeat: no-repeat;
+
+}
+.third h3 {
+  text-align: unset;
+  line-height: 1.2 ;
+  text-align: center;
+  text-overflow: ;
+  color:#ecb807;
+  text-transform: uppercase;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.third h1{
+  text-align: center;
+  color: #fff;
+}
+.responsive
+{
+  color: #fff;
+  margin-top: 50px;
+}
+.all
+{
+ 
+}
+.third .responsive
+{
+  float: left;
+  width: 25%;
+  text-align: center;
+
+}
+.fourth
+{
+  background-image:url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg) ;
+  background-size: cover;background-repeat: no-repeat; background-position:center;
+text-align: center;
+padding: 240px 0px;
+}
+.fourth
+h1 {
+margin-bottom: 50px;
+
+
+}
+.fifth{
+  text-align: center;
+  padding: 120px 0px ;
+  background-color:#1d809f ;
+  margin-top: 0px;
+  background-repeat: no-repeat;
+}
+.fourth a{
+  border-radius: 0.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+  background-color:  #1d809f;
+  padding: 20px 40px;
+  color: #fff;
+
+} 
+
+
+.fifth h1
+{
+  color: #fff;
+  margin-bottom: 30px;
+}
+.fifth .a1
+{
+  color: #212529; background-color: #f8f9fa;
+  padding: 20px 40px;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+}
+.fifth .a2
+{background-color: #343a40;
+  color:#ffffff ;
+  margin-left: 20px;
+  padding: 20px 40px;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+  text-decoration: none;
+
+}
+.map
+{
+
+  
+}
+
+
+
